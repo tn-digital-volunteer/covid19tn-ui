@@ -5,6 +5,7 @@
  - People who is going to contribute should raise issue 
  - Issues will be assigned to the people who is intrested
  - They can submit pull request to close particular issue
+ - If someone sumits pull request directly it will be rejected
 
 
 

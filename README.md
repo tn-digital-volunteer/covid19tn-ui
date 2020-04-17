@@ -5,8 +5,8 @@
  - People who is going to contribute should raise issue 
  - Issues will be assigned to the people who is intrested
  - They can submit pull request to close particular issue
- - If someone sumits pull request directly it will be rejected
-
+ - If someone submits pull request directly without raising issue.. it will be rejected
+ - People can raise their feature request as issue
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.

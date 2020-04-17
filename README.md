@@ -1,5 +1,13 @@
 # Covid19tnUi
 
+
+### Simple guidelines to contribute
+ - People who is going to contribute should raise issue 
+ - Issues will be assigned to the people who is intrested
+ - They can submit pull request to close particular issue
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 ## Development server
